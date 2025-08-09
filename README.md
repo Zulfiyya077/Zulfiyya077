@@ -14,4 +14,4 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zulfiyya077E&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zulfiyya077&show_icons=true&theme=radical)
