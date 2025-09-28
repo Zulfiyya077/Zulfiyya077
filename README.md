@@ -19,3 +19,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zulfiyya077&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zulfiyya077&layout=compact&theme=radical)
+
+## 🐍 GitHub Contribution Snake
+
+![Snake animation](https://github.com/Zulfiyya077/Zulfiyya077/blob/output/github-contribution-grid-snake.svg)
