@@ -23,14 +23,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      # Snake animasiyasını generasiya edir
+      # Snake animasiyasını generasiya edir (Dark theme)
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&background_color=%23000000
+            dist/github-contribution-grid-snake.svg?palette=github-dark&background_color=%23161b22
 
       # Nəticəni GitHub Pages-ə push edir
       - name: Push to output branch
