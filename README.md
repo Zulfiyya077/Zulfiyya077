@@ -22,4 +22,4 @@
 
 ## 🐍 GitHub Contribution Snake
 
-![Snake animation](https://github.com/Zulfiyya077/Zulfiyya077/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Zulfiyya077/Zulfiyya077/blob/output/github-contribution-grid-snake-dark.svg)
