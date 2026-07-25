@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Zulfiyya Mammadova
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:60A5FA&height=220&section=header&text=Zulfiyya%20Mammadova&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
 ### Frontend Developer • React • Next.js • TypeScript
 
@@ -140,3 +140,5 @@ mammadovazulfiyya07@gmail.com
 If you like my work, don't forget to ⭐ my repositories.
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:60A5FA&height=120&section=footer"/>
