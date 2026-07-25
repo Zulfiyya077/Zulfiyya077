@@ -111,6 +111,9 @@ Next.js • React • TypeScript • Tailwind CSS • Framer Motion
 
 ---
 
+https://github-readme-stats.vercel.app/api?username=Zulfiyya077&show_icons=true&theme=github_dark
+
+
 # 🏆 GitHub Trophies
 
 <div align="center">
