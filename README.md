@@ -1,47 +1,162 @@
-# Zulfiyya Mammadova  
-### Frontend Developer | Azerbaijan  
+<div align="center">
 
-Passionate about building modern, responsive, and user-friendly web applications.  
-Focused on clean UI, strong logic, and scalable frontend architecture.
+# 👋 Hi, I'm Zulfiyya Mammadova
 
----
+### Frontend Developer • React • Next.js • TypeScript
 
-## 🚀 Tech Stack
+<p>
+Building modern, responsive and scalable web applications with a strong focus on UI/UX, performance and clean architecture.
+</p>
 
-### Core
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=700&color=3B82F6&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+SaaS+Applications;Always+Learning+New+Technologies" />
 
-### Frameworks & Libraries
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<br/>
 
-### Styling
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=Zulfiyya077&label=Profile%20Views&color=3B82F6&style=for-the-badge" />
 
-### Tools
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
 
 ---
 
-## 📫 Contact
+# 🚀 About Me
 
-**Email:** mammadovazulfiyya07@gmail.com  
+💙 Frontend Developer from Azerbaijan
+
+⚛️ Passionate about React & Next.js
+
+🎨 Love creating modern UI/UX
+
+📱 Responsive Design Enthusiast
+
+🚀 Interested in SaaS Products
+
+📚 Constantly learning new technologies
 
 ---
 
-## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zulfiyya077&show_icons=true&theme=radical" />
+**Tech**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zulfiyya077&layout=compact&theme=radical" />
+Next.js • React • TypeScript • Tailwind CSS • Framer Motion
 
 ---
 
-## 🐍 GitHub Contribution Snake
+# 💻 Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+
+</p>
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux" />
+
+</p>
+
+## Styling
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass" />
+
+</p>
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,npm" />
+
+</p>
+
+---
+
+
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zulfiyya077&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zulfiyya077&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zulfiyya077&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zulfiyya077&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Zulfiyya077&theme=algolia&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
 
 <img src="https://github.com/Zulfiyya077/Zulfiyya077/blob/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+📧 **Email**
+
+mammadovazulfiyya07@gmail.com
+
+</p>
+
+---
+
+<div align="center">
+
+## 💙 Favorite Quote
+
+*"First make it work. Then make it beautiful."*
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+If you like my work, don't forget to ⭐ my repositories.
+
+</div>
