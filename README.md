@@ -78,19 +78,6 @@ Next.js • React • TypeScript • Tailwind CSS • Framer Motion
 ---
 
 
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zulfiyya077&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zulfiyya077&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
@@ -113,16 +100,6 @@ Next.js • React • TypeScript • Tailwind CSS • Framer Motion
 
 https://github-readme-stats.vercel.app/api?username=Zulfiyya077&show_icons=true&theme=github_dark
 
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Zulfiyya077&theme=algolia&no-frame=true&row=1&column=6" />
-
-</div>
-
----
 
 # 🐍 Contribution Snake
 
